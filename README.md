@@ -24,6 +24,13 @@ each([1,2,3,4,5,6,7], function(el, i, done) {
 	console.log('Done!');
 });
 ```
+The module is only one function
+
+```
+each(array, iterator, [callback])
+```
+
+The callback is optional.
 
 ## Error handling
 
