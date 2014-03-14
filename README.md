@@ -1,6 +1,6 @@
 # each-series
 
-Asynchronously iterate an array as a series. The same as [async.eachSeries](https://github.com/caolan/async#eachseriesarr-iterator-callback), but as a small module.
+Asynchronously iterate an array as a series. Similar to  [async.eachSeries](https://github.com/caolan/async#eachseriesarr-iterator-callback), but as a small module.
 
 ## Installation
 
